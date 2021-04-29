@@ -1,11 +1,12 @@
 ### Hi there 👋
-
+### 🔭 I’m currently working on avoid dying
+### 🌱 I’m currently learning mostly everything but not that deep
 <!--
 **Eric-lee1155/Eric-lee1155** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-### 🔭 I’m currently working on avoid dying
+### 🔭 I’m currently working on AVOID DYING
 ### 🌱 I’m currently learning mostly everything but not that deep
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
